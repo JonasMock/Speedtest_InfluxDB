@@ -3,5 +3,5 @@
 Visualization with Grafana
 
 <p align="center">
-  <img src="Speedtest.png">
+  <img src="/speedtest.png">
 </p>
