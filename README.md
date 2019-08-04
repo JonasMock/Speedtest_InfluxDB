@@ -1,4 +1,4 @@
-# Speedtest_InluxDB
+# Speedtest_InfluxDB
 
 Visualization with Grafana
 
