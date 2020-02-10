@@ -37,7 +37,6 @@ def main(host, port):
 
 	#print("Delete database: " + dbname)
 	#client.drop_database(dbname)
-pass
 
 import subprocess
 
@@ -93,8 +92,6 @@ if home:
 					 }
 				}
 			]
-	pass
 	main(host, port)
 else:
 	print("Nicht Zuhause")
-pass
